@@ -2,9 +2,9 @@ This is a plugin for tumbler (the thumbnaililing system used by Thunar and Marli
 it to produce thumbnails for FreeCAD's .fcstd files.
 
 .fcstd files behave exactly like .odf files (from openoffice/libreoffice), they are actually
-a .zip file containing a .png thumbnail image (thumbnails/Thumbnail.png)
+a .zip file containing a .png thumbnail image (thumbnails/Thumbnail.png). This plugin is copied/adapted the odf plugin
 
-This plugin must be copied manually in your tumbler plugins dir (usr/lib/x86xxx/tumbler-1/plugins) after
+The .so plugin must be copied manually in your tumbler plugins dir (usr/lib/x86xxx/tumbler-1/plugins) after
 being built, since I still haven't setup install targets in the CMake file.
 
-WARNING - The plugin still doesn't work, I don't know why... (Copied/adapted the odf plugin, which works fine)
+WARNING - The plugin still doesn't work, I still couldn't find what's wrong... 
