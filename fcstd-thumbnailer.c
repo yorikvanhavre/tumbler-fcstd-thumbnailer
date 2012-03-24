@@ -1,5 +1,6 @@
 /* vi:set et ai sw=2 sts=2 ts=2: */
 /*-
+ * Copyright (c) 2012 Yorik van Havre <yorik@uncreated.net>
  * Copyright (c) 2011 Jannis Pohlmann <jannis@xfce.org>
  * Copyright (c) 2011 Nick Schermer <nick@xfce.org>
  *
